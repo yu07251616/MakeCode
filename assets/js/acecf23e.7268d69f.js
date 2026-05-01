@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmake_code=self.webpackChunkmake_code||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/MakeCode/blog","blogTitle":"Blog","authorsListPath":"/MakeCode/blog/authors"}')}}]);
