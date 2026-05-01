@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yu07251616.github.io/MakeCode/blog</id>
-    <title>MakeCode説明 Blog</title>
+    <title>MakeCode講座 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yu07251616.github.io/MakeCode/blog"/>
-    <subtitle>MakeCode説明 Blog</subtitle>
+    <subtitle>MakeCode講座 Blog</subtitle>
     <icon>https://yu07251616.github.io/MakeCode/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
